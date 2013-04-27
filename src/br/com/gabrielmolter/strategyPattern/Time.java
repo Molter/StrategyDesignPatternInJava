@@ -1,5 +1,8 @@
 package br.com.gabrielmolter.strategyPattern;
 
+import br.com.gabrielmolter.strategyPattern.interfaces.EsquemaTatico;
+import br.com.gabrielmolter.strategyPattern.interfaces.Tecnico;
+
 public class Time {
 	Tecnico tecnico;
 	EsquemaTatico esquemaTatico;

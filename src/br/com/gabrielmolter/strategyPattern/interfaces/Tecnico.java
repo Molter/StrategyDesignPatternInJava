@@ -1,4 +1,5 @@
-package br.com.gabrielmolter.strategyPattern;
+package br.com.gabrielmolter.strategyPattern.interfaces;
+
 
 public interface Tecnico {
 	public void saySomething();

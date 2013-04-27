@@ -1,5 +1,7 @@
 package br.com.gabrielmolter.strategyPattern;
 
+import br.com.gabrielmolter.strategyPattern.interfaces.EsquemaTatico;
+
 public class ControlePeloMeio implements EsquemaTatico {
 
 	@Override
