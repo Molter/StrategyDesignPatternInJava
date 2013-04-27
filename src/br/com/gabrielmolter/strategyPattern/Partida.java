@@ -71,7 +71,7 @@ public class Partida {
 			
 			
 			try {
-				// para evitar muitas mudanças eh uma a cada 8 segundos
+				// para evitar muitas mudanças eh uma a cada 7 segundos
 				Thread.sleep(6000);
 			} catch (InterruptedException e) {
 				e.printStackTrace();
